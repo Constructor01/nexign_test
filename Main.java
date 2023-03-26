@@ -20,6 +20,6 @@ public class Main {
             all_lines.add(line);
         }
         all_lines.remove(all_lines.size()-1);
-
+        //StringReader mas=new StringReader(all_lines);
     }
 }
